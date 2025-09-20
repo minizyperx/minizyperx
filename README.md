@@ -42,9 +42,9 @@ I enjoy exploring **ethical hacking**, **penetration testing**, and creating too
 
 ## 📫 Connect with Me
 
-* 🔗 [LinkedIn](#https://www.linkedin.com/in/sumit-raj-b75780291/)
+* 🔗 [LinkedIn](#linkedin.com/in/sumit-raj-b75780291/)
 * 🐙 [GitHub](#github.com/minizyperx)
-* ✉️ Email: [your-email@example.com](mailto:sumittraj2027@gmail.com)
+* ✉️ Email: [sumittraj2027@gmail.com]
 
 ---
 
