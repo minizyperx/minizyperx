@@ -42,7 +42,7 @@ const sumitRaj = {
     
     expertise: {
         security: ["Pentesting", "Web App Security", "CTF"],
-        development: ["React", "Python", "JavaScript"],
+        development: ["Python", "JavaScript", "SQL"],
         tools: ["Burp Suite", "Metasploit", "Nmap"]
     },
     
@@ -215,21 +215,6 @@ const sumitRaj = {
 
 ---
 
-## 📊 BATTLE STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=minizyperx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=minizyperx&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakLabel=00FF41" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minizyperx&custom_title=Combat%20Activity%20Graph&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&area=true&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=minizyperx&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🌐 CONNECT WITH ME
@@ -238,7 +223,8 @@ const sumitRaj = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-raj-b75780291/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minizyperx)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumit.like.raj@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SumitRa09941859)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumittraj2027@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 <br>
