@@ -214,16 +214,15 @@ const sumitRaj = {
 </div>
 
 ---
-
 📊 GITHUB STATISTICS
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=minizyperx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=minizyperx&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakLabel=00FF41" />
-<img src="https://github-profile-trophy.vercel.app/?username=minizyperx&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=minizyperx&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minizyperx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&langs_count=8" alt="Top Languages" />
+<br><br>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=minizyperx&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&title_color=00FF41&area=true&hide_border=true" alt="Activity Graph" />
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=minizyperx&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=00FF41" alt="Trophies" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ---
 
 ## 🌐 CONNECT WITH ME
