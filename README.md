@@ -126,7 +126,6 @@ const sumitRaj = {
 
 ### 🔐 Advanced Keylogger
 <a href="https://github.com/minizyperx/Advance-keylogger">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=minizyperx&repo=Advance-keylogger&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
 </a>
 
 **Educational malware simulation framework**
@@ -139,7 +138,6 @@ const sumitRaj = {
 
 ### 🛡️ PortSwigger Solutions
 <a href="https://github.com/minizyperx/Portswigger-lab-approach">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=minizyperx&repo=Portswigger-lab-approach&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
 </a>
 
 **Web security vulnerability labs**
@@ -155,7 +153,6 @@ const sumitRaj = {
 
 ### 🔍 OSINT Tools
 <a href="https://github.com/minizyperx/Osint-Tools">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=minizyperx&repo=Osint-Tools&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
 </a>
 
 **Intelligence gathering toolkit**
@@ -168,7 +165,6 @@ const sumitRaj = {
 
 ### 💉 SQL Injection Cheatcodes
 <a href="https://github.com/minizyperx/SQL-Cheatcodes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=minizyperx&repo=SQL-Cheatcodes&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
 </a>
 
 **Complete SQL injection guide**
